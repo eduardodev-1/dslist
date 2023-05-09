@@ -29,7 +29,12 @@ public class Game {
 	private String platforms;
 	private Double score;
 	private String imgUrl;
+	
+	//aumentando o limite de caracteres para esses campos:
+	@Column(columnDefinition = "TEXT")
 	private String shortDescription;
+	
+	@Column(columnDefinition = "TEXT")
 	private String longDescription;
 
 	public Game() {
