@@ -25,3 +25,11 @@ Belonging é o OBJETO intermediário, que indica a posição que os games são m
 
 representação do modelo de domínio em uma tabela relacional
 ![07 - tabela relacional do modelo de domínio](https://github.com/eduardodev-1/dslist/assets/122590889/4cde6e15-6860-43e4-8468-12e11de7f58c)
+
+O que foi aplicado até o commit "Projection created, GameRepository Update"
+- Implementado modelo de domínio
+- Atualizado seed da base de dados
+- GameDTO, busca game por id
+- Busca totas listas em /lists
+- Consulta SQL, projection, busca de games
+por lista
