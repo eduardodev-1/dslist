@@ -33,3 +33,8 @@ O que foi aplicado até o commit "Projection created, GameRepository Update"
 - Busca totas listas em /lists
 - Consulta SQL, projection, busca de games
 por lista
+Conceitos utilizados:
+• Relacionamentos N-N
+• Classe de associação, embedded id
+• Consultas SQL no Spring Data JPA
+• Projections
